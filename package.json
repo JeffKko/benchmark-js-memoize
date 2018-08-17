@@ -1,0 +1,22 @@
+{
+  "name": "benchmark-memoize",
+  "version": "1.0.0",
+  "description": "benchmark test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeffKko/benchmark-js-memoize.git"
+  },
+  "author": "jeff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeffKko/benchmark-js-memoize/issues"
+  },
+  "homepage": "https://github.com/JeffKko/benchmark-js-memoize#readme",
+  "dependencies": {
+    "benchmark": "^2.1.4"
+  }
+}
